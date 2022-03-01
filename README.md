@@ -1,10 +1,10 @@
-### pre alpha
+<p align="center">
+  <img src='https://www.linkpicture.com/q/Frame-6.png' />
+  <br/>
+  <br/>
+</p>
 
 Kiqpo's pre-alpha version is now available for testing and contribution :heart:
-
-
-
-
 
 
 
