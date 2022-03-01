@@ -32,8 +32,7 @@ We want to enable designers to deliver their full creative vision without being 
 that's why we follow [google](https://github.com/google)'s [material design](https://github.com/material-components) system
 
 ### Productive development
-- Kiqpo offers hot reload, allowing you to make changes to your code and see the results instantly
-- No HTML/CSS/JavaScript required for Kiqpo
+Kiqpo offers hot reload, allowing you to make changes to your code and see the results instantly & No HTML/CSS/JavaScript required for Kiqpo
 
 
 
