@@ -32,7 +32,7 @@ that's why we follow [google](https://github.com/google)'s [material design](htt
 
 Kiqpo offers hot reload, allowing you to make changes to your code and see the results instantly & No HTML/CSS/JavaScript required for Kiqpo
 
-<img width='75%' src='https://i.postimg.cc/c1rXZYxL/output-onlinegiftools.gif' />
+<img width='85%' src='https://i.postimg.cc/c1rXZYxL/output-onlinegiftools.gif' />
 
 <br/>
 Kiqpo is a fully open-source project, and we welcome contributions. Information on how to get started can be found in our contributor guide.
