@@ -16,8 +16,8 @@ Kiqpo's pre-alpha version is now available for testing and contribution :heart:
 
 - [Installation](https://github.com/kiqpo/pre-alpha/blob/main/doc/Installation.md)
 - [Usage](https://github.com/kiqpo/pre-alpha/blob/main/doc/Usage.md)
-- [Contribution]()
-- [Documentation]()
+- [Contribution](https://github.com/kiqpo/pre-alpha/blob/main/doc/CONTRIBUTING.md)
+- [Documentation](http://kiqpo.software)
 
 ### About Kiqpo
 
