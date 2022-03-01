@@ -1,4 +1,4 @@
-# Usage
+### Usage
 Make sure kiqpo is installed
 
 
@@ -7,27 +7,46 @@ desktop@kiqpo:~$ kiqpo
 v1.0.0
 ```
 
-## Cerate new kiqpo app 
-This will cerate new kiqpo app
+
+# 
+
+
+### Cerate new kiqpo app 
+<details>
+  
+  <summary>Click to expand!</summary>
+ 
+  <sub>This will cerate new kiqpo app with name my-app</sub>
+  
 ```console
 kiqpo cerate my-app
 ```
+</details>
+ 
 
-<br/>
+### Runing
+<details>
+  
+  <summary>Click to expand!</summary>
+  
 
-## Runing
-
-
-This will serve local page
-```console
+  <sub>This will serve local page</sub>
+  
+  ```console
 kiqpo run-web
 ```
+</details>
 
 
-<br/>
 
-This start a desktop app
-```console
+### Runing - desktop
+<details>
+  
+  <summary>Click to expand!</summary>
+  
+  <sub>This start a desktop</sub>
+  
+  ```console
 kiqpo run-desktop
 ```
-  
+</details>
