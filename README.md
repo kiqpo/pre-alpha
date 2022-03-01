@@ -6,13 +6,9 @@
 
 Kiqpo's pre-alpha version is now available for testing and contribution :heart:
 
-
-
-
-
-
 **Note :**
-- Pre-alpha **Unsuitable for production** 
+
+- Pre-alpha **Unsuitable for production**
 - This is only for testing and contributing to kiqpo
 - A number of bugs are present in Pre-alpha
 
@@ -24,6 +20,7 @@ Kiqpo's pre-alpha version is now available for testing and contribution :heart:
 - [Documentation]()
 
 ### About Kiqpo
+
 By making use of [KIQPO](https://github/kiqpo), you can build beautiful, fast, and reliable web applications without relying on [JavaScript](https://github.com/topics/javascript) frameworks, [HTML](https://github.com/topics/HTML) templates, request parsing, or state management. All of this is done using [Python](https://github.com/python) and we're targeting web, [Windows](https://github.com/microsoft), [macOS](https://github.com/topics/macos), [Linux](https://github.com/topics/linux) platforms
 
 ### Beautiful user interface
@@ -32,9 +29,8 @@ We want to enable designers to deliver their full creative vision without being 
 that's why we follow [google](https://github.com/google)'s [material design](https://github.com/material-components) system
 
 ### Productive development
+
 Kiqpo offers hot reload, allowing you to make changes to your code and see the results instantly & No HTML/CSS/JavaScript required for Kiqpo
-
-
 
 <br/>
 <br/>

@@ -8,6 +8,8 @@
 import sys
 from multiprocessing import Process
 import webbrowser
+
+from build import os
 from desktop import app
 from livereload import Server, shell
 try:
@@ -53,8 +55,8 @@ initialCode = inspect.getsource(main)
 
 def livekiqposerver():
     server = Server()
-    server.watch('./kiqpo/native', shell('make html', cwd='native'))
-    server.serve(root='./kiqpo/native', restart_delay=0)
+    server.watch(f'{os.getcwd()}/APPNAME/native', shell('make html', cwd='native'))
+    server.serve(root=f'{os.getcwd()}/APPNAME/native', restart_delay=0)
 
 
 def openwebbrowser():
