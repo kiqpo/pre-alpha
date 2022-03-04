@@ -3,9 +3,22 @@
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
+### How to contribut ?
+
+* Clone this repo
 ```console
-git clone https://github.com/kiqpo/kiqpo.git
+git clone fdf
 ```
+
+ * Create a branch
+```console
+git checkout -b ＜new-branch＞
+```
+* Add commits
+```console
+git checkout -b ＜new-branch＞
+```
+
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
