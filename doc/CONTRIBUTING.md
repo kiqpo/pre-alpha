@@ -1,26 +1,33 @@
-# Contributing
+# Contributing 🏗️
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-### How to contribut ?
+### How to contribute ❔
+<p>contributoing guide 📖</p>
 
 * Clone this repo
 ```console
-git clone fdf
+git clone https://github.com/kiqpo/kiqpo.git
 ```
 
  * Create a branch
 ```console
-git checkout -b ＜new-branch＞
+git checkout -b feature
 ```
 * Add commits
 ```console
-git checkout -b ＜new-branch＞
+git commit -m"about bug fix / feature"
 ```
 
+* Open Pull Request to `dev branch`
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+> Please note we have a code of conduct, please follow it in all your interactions with the project.
+
+> If your pull request is merge with `dev branch`, bug fix / feature that you made will be add to `main branch.
+
+<br/>
+
 
 ## Pull Request Process
 
